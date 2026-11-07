@@ -1,12 +1,12 @@
 {
-	"name": "first",
+	"name": "zivar-shop",
 	"main": "src/cloudflare/worker.js",
 	"compatibility_date": "2026-07-24",
 
 	"assets": {
 		"directory": "./dist",
 		"not_found_handling": "single-page-application",
-		"run_worker_first": ["/api", "/api/*"]
+		"run_worker_zivarshop": ["/api", "/api/*"]
 	},
 	"triggers": {
 		"crons": [
