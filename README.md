@@ -5,7 +5,7 @@
 #### Get files
 
 ```bash
-npx degit mojtabaAPK/vuejs-cloudflare .
+npx degit mojtabaAPK/zivar-shop-cf .
 ```
 
 #### install it
