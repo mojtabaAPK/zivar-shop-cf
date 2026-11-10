@@ -107,7 +107,7 @@
                 </figure>
 
                 <!-- Content -->
-                <div class="card-body p-3 sm:p-4 gap-2">
+                <div class="card-body p-3 sm:p-4 gap-2 justify-between">
 
                     <div class="text-xs text-base-content/50">
                         {{ product.category }}
