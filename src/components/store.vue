@@ -255,7 +255,7 @@ export default {
                     reviews: 125,
                     stock: true,
                     favorite: false,
-                    image: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600',
+                    image: window.location.origin+'/images/headphone.png',
                     createdAt: 10
                 },
                 {
@@ -269,7 +269,7 @@ export default {
                     reviews: 85,
                     stock: true,
                     favorite: false,
-                    image: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600',
+                    image: window.location.origin+'/images/shoes.png',
                     createdAt: 9
                 },
                 {
@@ -283,7 +283,7 @@ export default {
                     reviews: 42,
                     stock: true,
                     favorite: false,
-                    image: 'https://images.unsplash.com/photo-1527814050087-3793815479db?w=600',
+                    image: window.location.origin+'/images/mouse.png',
                     createdAt: 8
                 },
                 {
@@ -297,7 +297,7 @@ export default {
                     reviews: 67,
                     stock: true,
                     favorite: false,
-                    image: 'https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600',
+                    image: window.location.origin+'/images/keyboard.png',
                     createdAt: 7
                 },
                 {
@@ -311,7 +311,7 @@ export default {
                     reviews: 93,
                     stock: false,
                     favorite: false,
-                    image: 'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600',
+                    image: window.location.origin+'/images/camera.png',
                     createdAt: 6
                 },
                 {
@@ -325,7 +325,7 @@ export default {
                     reviews: 150,
                     stock: true,
                     favorite: false,
-                    image: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600',
+                    image: window.location.origin+'/images/phone.png',
                     createdAt: 5
                 }
             ]
